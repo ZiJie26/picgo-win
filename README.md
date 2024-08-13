@@ -1,2 +1,3 @@
 # picgo-win
-pic-go-repo
+
+楚梓杰的PicGo图床o(*￣▽￣*)ブ
